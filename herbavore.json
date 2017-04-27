@@ -1,0 +1,19 @@
+{
+    "herbavores" : [
+    {
+        "type" : "Buffalo"
+    },
+    {
+        "type" : "Giraffe"
+    },
+    {
+        "type" : "Elephant"
+    },
+    {
+        "type" : "Horse"
+    },
+    {
+        "type" : "Goat"
+    }
+    ]
+}

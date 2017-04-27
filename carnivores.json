@@ -1,0 +1,19 @@
+{
+    "carnivores" : [
+    {
+        "type" : "Bear"
+    },
+    {
+        "type" : "Lion"
+    },
+    {
+        "type" : "Tiger"
+    },
+    {
+        "type" : "Honey-Badger"
+    },
+    {
+        "type" : "Anaconda"
+    }
+    ]
+}
